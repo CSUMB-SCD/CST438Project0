@@ -1,0 +1,24 @@
+*name: Jose Crescencio
+
+*hobby: Carpentry, Cooking
+
+*something intersting about yourself: I learned to cook when I was 8 years old
+-------------------------------------------------------------------------------------
+*name: Eric
+
+*hobby:
+
+*something intersting about yourself:
+-------------------------------------------------------------------------------------
+*name: Evert
+
+*hobby:
+
+*something intersting about yourself:
+-------------------------------------------------------------------------------------
+*name: Judith
+
+*hobby:
+
+*something intersting about yourself:
+
