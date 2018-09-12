@@ -11,13 +11,12 @@
 -------------------------------------------------------------------------------------
 *name: Evert
 
-*hobby:
+*hobby: Photography
 
-*something intersting about yourself:
+*something intersting about yourself: I can solve a Rubix cube.
 -------------------------------------------------------------------------------------
 *name: Judith Ramirez
 
-*hobby: Reading, Journaling 
+*hobby: Reading, Journaling
 
 *something interesting about yourself: I used to play the bass.
-
